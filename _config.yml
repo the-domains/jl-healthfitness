@@ -1,0 +1,28 @@
+name: jl-healthfitness
+favicon: null
+layout_spectrum: 0.248869952512905
+typography_spectrum: 0.613993369275704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.38356606382876635
+  lightness: 0.9663713278714567
+  saturation: 0.5791697853710502
+  rhythmicContrast: 0.3075937039684504
+purpose: []
