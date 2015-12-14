@@ -1,7 +1,7 @@
 name: jl-healthfitness
 favicon: null
-layout_spectrum: 0.248869952512905
-typography_spectrum: 0.613993369275704
+layout_spectrum: 1
+typography_spectrum: 0.33472
 title: 'Jamie Luke Health & Fitness'
 cta:
   domain: null
