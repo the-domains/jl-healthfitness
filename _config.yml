@@ -1,29 +1,41 @@
-name: jl-healthfitness
-favicon: null
-layout_spectrum: 0.89399
-typography_spectrum: 0.33472
 title: 'Jamie Luke Health & Fitness'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-50143445-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4946237
+  lightness: 0.1379928
+  brandStrength: 1
   brandColors:
     - '#ebd63e'
     - '#585857'
     - '#998f4b'
     - '#c1b245'
     - '#f8f0b9'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.4551971
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-50143445-1
+  facebook: null
+favicon: null
+name: jl-healthfitness
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3799283
+layout_spectrum: 0
