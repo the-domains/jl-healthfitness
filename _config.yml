@@ -1,4 +1,4 @@
-title: 'Jamie Luke Health & Fitness'
+title: Jamie Luke Health & Fitness
 purpose: []
 collections:
   - index:
@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4946237
-  lightness: 0.1379928
+  saturation: 0.3172043
   brandStrength: 1
+  lightness: 0.2634408
   brandColors:
-    - '#ebd63e'
-    - '#585857'
-    - '#998f4b'
-    - '#c1b245'
-    - '#f8f0b9'
-  rhythmicContrast: 0.4551971
+    - '#7C7C84'
+    - '#FFE677'
+    - '#47464B'
+    - '#C6B26B'
+    - '#C6C5CB'
+  rhythmicContrast: 0.3010753
 cta:
   bucket: null
   version: null
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3799283
-layout_spectrum: 0
+typography_spectrum: 0.1899642
+layout_spectrum: 0.4569893
